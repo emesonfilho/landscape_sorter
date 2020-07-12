@@ -1,24 +1,24 @@
-# Classificador de paisagens 
+# Landscape Sorter
 
-Uma rede neural classificando imagens entre floresta ou deserto.
+A neural network classifying images between forest or desert.
 
-Primeiro de tudo, bote ela para treinar, basta selecionar ali:
+First of all, put her to train, just select there:
 
 ![image](https://user-images.githubusercontent.com/48841448/86317890-eff72a80-bc06-11ea-81ea-d83a08b65c4f.png)
 
-Vale lembrar que as bases de teste e de treino devem ser separadas:
+Remember that the test and training bases must be separated:
 
 ![image](https://user-images.githubusercontent.com/48841448/86318106-76137100-bc07-11ea-9d79-227181120cb5.png)
 
-Depois de ter terminado o processo de treino podemos começar a ver ela classificando:
+After finishing the training process we can start to see her classifying:
 
-* Primeiro vá em selecionar imagem (use para ver os resultados as imagens na pasta de teste):
+* First go to select image (use to see the results of the images in the test folder):
 
 ![image](https://user-images.githubusercontent.com/48841448/86318261-d9050800-bc07-11ea-8fbc-76267c8d4b76.png)
 
-Vai abrir a pasta, selecione a imagem
+Will open the folder, select the image.
 
-* Clique em classificar, e o resultado aparece na tela:
+* Click on sort, and the result appears on the screen:
 
 ![image](https://user-images.githubusercontent.com/48841448/86318332-0baf0080-bc08-11ea-9d0b-f6ed0b1f46c5.png)
 
